@@ -74,7 +74,7 @@ Esta página web permite a los usuarios agregar nombres de amigos o cualquier gr
 <p><em>Puedes probar el proyecto en vivo aquí:</em></p>
 
 <p align="center">
-  <a href="https://tu-enlace.github.io/amigo-secreto" target="_blank">
+  <a href="https://jhonatano24.github.io/challenge-secret-friend/" target="_blank">
     <strong>🔗 Ver Demo</strong>
   </a>
 </p>
